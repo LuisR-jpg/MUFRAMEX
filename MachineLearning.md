@@ -129,7 +129,7 @@ A matrix of graphs that helps to map each feature to see their relationships.
 
 [Parallel coordinates](https://syntagmatic.github.io/parallel-coordinates/) (plotly)
 
-    Radarplot
+Radarplot
 
 #### Heatmap
 
