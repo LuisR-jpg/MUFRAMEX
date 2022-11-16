@@ -108,7 +108,7 @@ Also, our data starts to become wider (more features) and shorter (not many samp
 
     Pure numbers sometimes overlap when describing data.
 
-    <img align='center' src=""/>
+    <img align='center' src="https://github.com/LuisR-jpg/MUFRAMEX/blob/main/data/EquivalentGraphics.jpeg?raw=true"/>
     <br></br>
 
 - Boxplot and violinplot (seaborn)
@@ -118,3 +118,9 @@ Also, our data starts to become wider (more features) and shorter (not many samp
 - Pairplot (seaborn)
 
     A matrix of graphs that helps to map each feature to see their relationships.
+
+- From two to higher dimensions
+    
+    Parallel coordinates (plotly)
+
+    Radarplot
