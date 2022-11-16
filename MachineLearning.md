@@ -62,3 +62,21 @@ And now we only have to $min_\beta\sum_i(y_i-f_\beta(x_i))^2$ by using $\triangl
 
 ## 3. Data and data
 
+Data is super complex nowadays, we need numbers to optimize but our samples can be text or something else, so we have to find a way to transform it a vector.
+
+Also, our data starts to become wider (more features) and shorter (not many samples).
+
+## 4. Challenges
+
+1. Uncertainty
+
+2. Robustness and adversaries
+
+It's just matter of details to mess with our models. So we need a robust system.
+
+3. Biases and fairness 
+
+If your dataset doesn't represent the population, wrong decisions can be made. 
+
+4. Explainability and interpretability.
+
