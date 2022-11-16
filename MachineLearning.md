@@ -93,7 +93,7 @@ Also, our data starts to become wider (more features) and shorter (not many samp
 - It's important to know the differences.
 
     |Infographics               |Graphics                   |
-    |---                        |---                        |
+    |---------------------------|---------------------------|
     |Self-contained             |Only gives support         |
     |Used once                  |As general as possible     |
     |Give a message/conclusion  |Are used for exploration   |
