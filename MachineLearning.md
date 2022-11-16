@@ -98,13 +98,25 @@ Also, our data starts to become wider (more features) and shorter (not many samp
     |Used once                  |As general as possible     |
     |Give a message/conclusion  |Are used for exploration   |
 
-### Summaries
+### Ways to summarize the data
 
 #### Scatter plot
 
 You might not be seeing what you were thinking.
 
 Our mind can lead to fast conclusions.
+
+#### Boxplot and violinplot (seaborn)
+
+Point out a glimpse of the shape of your data.
+
+#### Pairplot (seaborn)
+
+A matrix of graphs that helps to map each feature to see their relationships.
+
+#### Heatmap
+
+It's a natural graph, easy to understand what it says.
 
 #### Mean, median, etc...
 
@@ -117,23 +129,12 @@ Pure numbers sometimes overlap when describing data.
 </div>
 <br></br>
 
-#### Boxplot and violinplot (seaborn)
-
-Point out a glimpse of the shape of your data.
-
-#### Pairplot (seaborn)
-
-A matrix of graphs that helps to map each feature to see their relationships.
 
 #### From two to higher dimensions
 
 [Parallel coordinates](https://syntagmatic.github.io/parallel-coordinates/) (plotly)
 
 Radarplot
-
-#### Heatmap
-
-It's a natural graph, easy to understand what it says.
 
 #### Alternative views
 
