@@ -134,3 +134,13 @@ Radarplot
 #### Heatmap
 
 It's a natural graph, easy to understand what it says.
+
+#### Alternative views
+
+You can reduce the dimensions.
+
+Possibly use 
+
+- Principal component analysis
+
+- [Tool for graphing](https://projector.tensorflow.org/)
