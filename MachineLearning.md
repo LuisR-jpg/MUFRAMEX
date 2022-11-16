@@ -27,7 +27,7 @@ When trying to get a curve that fits our point, we can face underfitting or over
 
 ## 2. Examples of $\hat{Y}(x)$
 
-**Ways to achieve classification/regression**
+i.e. Ways to achieve classification/regression.
 
 ### Nearest neighbor and KNN
 
