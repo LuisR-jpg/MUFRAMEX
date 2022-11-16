@@ -24,6 +24,7 @@ That is, we want the data to look like a normal distribution.
 When trying to get a curve that fits our point, we can face underfitting or overfitting, which is not good.
 
 <img align='center' src="https://github.com/LuisR-jpg/MUFRAMEX/blob/main/data/Fitting.png?raw=true"/>
+<br></br>
 
 ## 2. Examples of $\hat{Y}(x)$
 
@@ -34,3 +35,30 @@ i.e. Ways to achieve classification/regression.
 Decide by voting (classification) or averaging (regression) what neighborhood a point in the space belongs to.
 
 This is achieved by looking to the k closest neighbors.
+
+### Regression model
+
+For this model, we try to find a set of parameters $\vec{\beta}$ that maximizes the likelihood, that is, maximizing the probability to see what we just saw.
+
+But finding a linear model is not always enough, because our data might not be a line. That is the starting point for neural networks.
+
+### Neural network
+
+#### Step 1. Define base functions.
+
+We start composing functions by wrapping the notation we previously saw in the regression model ($x_i$ values multiplied by $\beta_i$).
+
+The wrapper functions can be some basic operations. Like:
+
+- Sign
+
+- Identity
+
+#### Step 2. Composition of base functions.
+
+We start taking the output of base functions (neurons) as an input of others (neurons also).
+
+And now we only have to $min_\beta\sum_i(y_i-f_\beta(x_i))^2$ by using $\triangledown f$ gradient descent with symbolic differentation and leads to applying a stochasting gradient method (gradient descent of subsamples).
+
+## 3. Data and data
+
