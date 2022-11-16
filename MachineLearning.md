@@ -15,15 +15,15 @@ The goal is to optimize a function that we don't know completely (because we usu
 
 #### In ML we're interested in *optimality* and *quality*.
 
-    That is, we want the data to look like a normal distribution.
+That is, we want the data to look like a normal distribution.
 
 #### TODO: Insert here some notation and terminology
 
 #### Errors and errors
 
-    When trying to get a curve that fits our point, we can face underfitting or overfitting, which is not good.
+When trying to get a curve that fits our point, we can face underfitting or overfitting, which is not good.
 
-    <img align='center' src="https://github.com/LuisR-jpg/MUFRAMEX/blob/main/data/Fitting.png?raw=true"/>
+<img align='center' src="https://github.com/LuisR-jpg/MUFRAMEX/blob/main/data/Fitting.png?raw=true"/>
 
 ## 2. Examples of $\hat{Y}(x)$
 
