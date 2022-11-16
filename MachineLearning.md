@@ -72,11 +72,13 @@ Also, our data starts to become wider (more features) and shorter (not many samp
 
 2. Robustness and adversaries
 
-It's just matter of details to mess with our models. So we need a robust system.
+    It's just matter of details to mess with our models. So we need a robust system.
 
 3. Biases and fairness 
 
-If your dataset doesn't represent the population, wrong decisions can be made. 
+    If your dataset doesn't represent the population, wrong decisions can be made. 
 
 4. Explainability and interpretability.
+
+    Using perturbation methods can tell the importance or not importance of a method.
 
