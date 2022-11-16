@@ -1,6 +1,6 @@
 # Introduction to Machine Learning
 
-###### Lecture 1
+###### Lecture 1.1
 
 ## 1. Introduction
 
@@ -82,3 +82,39 @@ Also, our data starts to become wider (more features) and shorter (not many samp
 
     Using perturbation methods can tell the importance or not importance of a method.
 
+###### Lecture 1.2
+
+## How to deal with graphs
+
+- Galleries and cheatsheets are useful to see the tools you have at hand.
+
+- It's important to know the differences.
+
+    |Infographics               |Graphics                   |
+    |---                        |---                        |
+    |Self-contained             |Only gives support         |
+    |Used once                  |As general as possible     |
+    |Give a message/conclusion  |Are used for exploration   |
+
+### Summaries
+
+- Scatter plot
+
+    You might not be seeing what you were thinking.
+
+    Our mind can lead to fast conclusions.
+
+- Mean, median, etc...
+
+    Pure numbers sometimes overlap when describing data.
+
+    <img align='center' src=""/>
+    <br></br>
+
+- Boxplot and violinplot (seaborn)
+
+    Point out a glimpse of the shape of your data.
+
+- Pairplot (seaborn)
+
+    A matrix of graphs that helps to map each feature to see their relationships.
