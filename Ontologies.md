@@ -93,3 +93,4 @@ Ontology to describe activity of things that have to do with sensors
 - Help making some information explicit
 
 - Great solution to proviede quality data for ML approaches.
+
