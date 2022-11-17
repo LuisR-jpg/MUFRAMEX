@@ -59,3 +59,9 @@ It defines
 - Organize their hierarchies
 
 #### OWL - The Web Ontology Language
+
+<div align = "center">
+    <br>
+    <img src = "https://github.com/LuisR-jpg/MUFRAMEX/blob/main/data/OWL.jpg?raw=true"/>
+    <br>
+</div>
