@@ -65,3 +65,31 @@ It defines
     <img src = "https://github.com/LuisR-jpg/MUFRAMEX/blob/main/data/OWL.jpg?raw=true"/>
     <br>
 </div>
+
+### Resources 
+
+#### LOV 
+
+Is a webpage that provides an already made ontology.
+
+#### Schema.org
+
+Used by big companies like microsoft, google and yahoo.
+
+#### FOAF (friend of a friend)
+
+#### DBPedia Ontology
+
+Ontology created manually with the resources that are described in wikipedia
+
+#### SSN/SOSA
+
+Ontology to describe activity of things that have to do with sensors
+
+## Conclusion
+
+- Ontologies help making data reusable
+
+- Help making some information explicit
+
+- Great solution to proviede quality data for ML approaches.
