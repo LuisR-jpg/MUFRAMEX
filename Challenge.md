@@ -1,6 +1,6 @@
 # Coding challenge
 
-We're give sequences of actions, poses.
+We're given sequences of actions, poses.
 
 It was created by 11 professional actor subjects. Doing 15 scenarios.
 
