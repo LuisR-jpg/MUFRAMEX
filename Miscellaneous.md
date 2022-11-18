@@ -12,6 +12,18 @@ Adam is a replacement optimization algorithm for stochastic gradient descent for
 
 The latent space is simply a representation of compressed data in which similar data points are closer together in space. Latent space is useful for learning data features and for finding simpler representations of data for analysis.
 
+## LR/Step
+
+Both stand for the size of steps or the speed of movement when optimizing a function.
+
+It's *step* in machine learning.
+
+It's *learning rate* in deep learning.
+
+## Generative model 
+
+En probabilidades y estadística, un modelo generador es un modelo para generar valores aleatorios de un dato observable, típicamente dados algunos parámetros ocultos. Este especifica una distribución conjunta sobre una secuencias de etiqueta. 
+
 # Coding challenge
 
 We're given sequences of actions, poses.
