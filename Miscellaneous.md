@@ -1,3 +1,7 @@
+# Concepts and definitions
+
+
+
 # Coding challenge
 
 We're given sequences of actions, poses.
@@ -35,3 +39,17 @@ This can be cast as a regression problem.
 - Should sum up your strategy + your results.
 
 - At least 3 different presenters.
+
+# Resources 
+
+Cool ideas, knowledge, sources found during the school.
+
+## PhDs areas
+
+- PhD of Mathematics of computational models and applied physics
+
+- PhD on knowledge graphs 
+
+## Notes 
+
+[Super notes on learning](http://personal.cimat.mx:8181/~mrivera/cursos/temas_aprendizaje.html)
