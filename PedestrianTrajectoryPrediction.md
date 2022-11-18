@@ -24,7 +24,7 @@ If possible: Include contextual data (maps, semantics...)
 
 The predictive distributions should be multimodal. That means that it gives several paths that are potentially possible. 
 
-## Solved with VAEs (Variational Auto Encoders)
+## Solved with CVAEs (Conditional Variational Auto Encoders)
 
 Consists of using introducing a latent variable distribution that tries to match the real data.
 
