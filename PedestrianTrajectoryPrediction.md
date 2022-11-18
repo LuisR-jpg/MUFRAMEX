@@ -20,16 +20,6 @@ Given partial trajectories for agents and training examples, infer the trajector
 
 If possible: Include contextual data (maps, semantics...)
 
-## Generative models and HTP
-
-The predictive distributions should be multimodal. That means that it gives several paths that are potentially possible. 
-
-## Solved with CVAEs (Conditional Variational Auto Encoders)
-
-Consists of using introducing a latent variable distribution that tries to match the real data.
-
-Maximizing the likelihood of the data can be done by maximizing the ELBO term of VAE'S math representation.
-
 ## Challenges
 
 Take into account the scene context
@@ -45,3 +35,13 @@ Monitoring traffic intersections
 Robot navigation
 
 Safety around autonomous vehicles
+
+## Generative models and HTP
+
+The predictive distributions should be multimodal. That means that it gives several paths that are potentially possible. 
+
+## Solved with CVAEs (Conditional Variational Auto Encoders)
+
+Consists of using introducing a latent variable distribution that tries to match the real data.
+
+Maximizing the likelihood of the data can be done by maximizing the ELBO term of VAE'S math representation.
