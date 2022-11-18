@@ -72,6 +72,10 @@ Cool ideas, knowledge, sources found during the school.
 
 - PhD on knowledge graphs 
 
+## People
+
+Ulises Moya Sanchez (eduardo.moya@jalisco.gob.mx)
+
 ## Notes 
 
 [Super notes on learning](http://personal.cimat.mx:8181/~mrivera/cursos/temas_aprendizaje.html)
