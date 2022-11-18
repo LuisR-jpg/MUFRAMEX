@@ -1,6 +1,16 @@
 # Concepts and definitions
 
+## Neural network
 
+A neural network is a method in artificial intelligence that teaches computers to process data in a way that is inspired by the human brain. It is a type of machine learning process, called deep learning, that uses interconnected nodes or neurons in a layered structure that resembles the human brain.
+
+## Adam algorithm
+
+Adam is a replacement optimization algorithm for stochastic gradient descent for training deep learning models.
+
+## Latent space
+
+The latent space is simply a representation of compressed data in which similar data points are closer together in space. Latent space is useful for learning data features and for finding simpler representations of data for analysis.
 
 # Coding challenge
 
