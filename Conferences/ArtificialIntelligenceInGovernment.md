@@ -49,3 +49,4 @@ IA in government is for social good.
 ## Conclusions
 
 - AI in government is motivated by adaptive motivation and mission innovation.
+
