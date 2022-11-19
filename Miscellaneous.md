@@ -78,4 +78,14 @@ Ulises Moya Sanchez (eduardo.moya@jalisco.gob.mx)
 
 ## Notes 
 
-[Super notes on learning](http://personal.cimat.mx:8181/~mrivera/cursos/temas_aprendizaje.html)
+### [Super notes on learning](http://personal.cimat.mx:8181/~mrivera/cursos/temas_aprendizaje.html)
+
+- [Seq2Seq](http://personal.cimat.mx:8181/~mrivera/cursos/aprendizaje_profundo/seq2seq/seq2seq.html)
+
+- [VAE](http://personal.cimat.mx:8181/~mrivera/cursos/aprendizaje_profundo/vae/vae.html)
+
+- [GAN](http://personal.cimat.mx:8181/~mrivera/cursos/aprendizaje_profundo/gan/gan.html)
+
+### [Recurrent neural networks](https://www.youtube.com/watch?v=WEV61GmmPrk)
+
+### [LSTM, GRU and Attention](https://medium.com/swlh/a-visual-and-intuitive-guide-to-lstm-gru-and-attention-8350518fa849)
