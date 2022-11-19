@@ -4,6 +4,40 @@
 
 A neural network is a method in artificial intelligence that teaches computers to process data in a way that is inspired by the human brain. It is a type of machine learning process, called deep learning, that uses interconnected nodes or neurons in a layered structure that resembles the human brain.
 
+## Recurrent neural network
+
+A network with a loop, it processes information sequentially and the output from every time step is fed back to the network which acts as a sort of memory.
+
+### Cons
+
+This memory is limited, so information loss usually happens. This is called *gradient vanishing*.
+
+## LSTM
+
+Comes to solve the problem of RNNs. Using a *context vector* that is like a highway.
+
+### Cons
+
+- Take longer to train
+
+- Require more memory
+
+- Easy to overfit
+
+- Dropout is much harder to implement
+
+## GRU 
+
+Similar to LSTM. GRU combines the forget and input gates into a single update gate.
+
+It also combines the hidden state vector and the context vector into a single vector.
+
+## Encoder Decoder architecture with Attention
+
+Encoder is a series of LSTMS/GRUs to compress data, and uses a module attention before passing it to the decoder.
+
+Attention multiplies the weights of the output of the decoder to focus on some specific features.
+
 ## Adam algorithm
 
 Adam is a replacement optimization algorithm for stochastic gradient descent for training deep learning models.
