@@ -58,6 +58,10 @@ It's *learning rate* in deep learning.
 
 En probabilidades y estadística, un modelo generador es un modelo para generar valores aleatorios de un dato observable, típicamente dados algunos parámetros ocultos. Este especifica una distribución conjunta sobre una secuencias de etiqueta. 
 
+## Dropout 
+
+Dropout is a technique where randomly selected neurons are ignored during training.
+
 # Coding challenge
 
 We're given sequences of actions, poses.
