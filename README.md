@@ -16,6 +16,6 @@
 
 #### TODOs
 
-- [] Finish the [primer on PyTorch](https://github.com/LuisR-jpg/MUFRAMEX/blob/main/Code/PrimerPyTorch.ipynb)
+- [ ] Finish the [primer on PyTorch](https://github.com/LuisR-jpg/MUFRAMEX/blob/main/Code/PrimerPyTorch.ipynb)
 
-- [] Complete exercises of [GANs](https://github.com/LuisR-jpg/MUFRAMEX/tree/main/Code/DeepGenerativeModels)
+- [ ] Complete exercises of [GANs](https://github.com/LuisR-jpg/MUFRAMEX/tree/main/Code/DeepGenerativeModels)
