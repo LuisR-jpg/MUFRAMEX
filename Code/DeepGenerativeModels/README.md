@@ -1,6 +1,7 @@
 # Deep Generative Models
 
 Two classes given at the [Muframex Thematic School on Deep Generative Models](https://www.muframex.fr/thematic-school-artificial-intelligence-2022/) on deep generative models.
+[Source repository](https://github.com/d9w/gen_models)
 
 ## Class 1: GANs
 
